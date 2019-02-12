@@ -1,5 +1,4 @@
 # Simon Says game for Arduino
-
 Arduino is fun microcontroller to mess around with, so I wanted to create an LED game for it. <br/>
 I decided to create a Simon Says game for it. The project was pretty simple, I had to include a custom library for the music.<br/>
 
