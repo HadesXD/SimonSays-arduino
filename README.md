@@ -1,6 +1,6 @@
 # Simon Says - Arduino
 Arduino is fun microcontroller to mess around with, so I wanted to create a simple game for it. <br/>
-The project was pretty simple, I had to include a custom library for the music.<br/>
+The project was pretty simple, I did have to include a custom library for the music.<br/>
 
 <ul>
   <li><b>Date:</b> May 2016</li>
